@@ -6,7 +6,7 @@ package com.mycompany.app;
 public class App
 {
 
-    private final String message = "Hello World g hghgc";
+    private final String message = "Hello World Akshay";
     public static Integer add(Integer a, Integer b) {
         if (a == null) {
             return null;
